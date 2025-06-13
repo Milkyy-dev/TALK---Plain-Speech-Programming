@@ -1,8 +1,8 @@
 # TALK---Plain-Speech-Programming
 
-# ✨ Plain Speech Language
+# ✨ TALK Language
 
-**Plain Speech** is a beginner-friendly, human-readable programming language built with Python. Designed for simplicity and clarity, it allows users to write understandable code in everyday language.
+**TALK** is a beginner-friendly, human-readable programming language built with Python. Designed for simplicity and clarity, it allows users to write understandable code in everyday language.
 
 ---
 
@@ -22,7 +22,7 @@ Make sure `talk.py` and your `.talk` file are in the same directory.
 
 ## 🧠 Core Concepts
 
-Plain Speech uses commands that mimic natural language. It supports:
+TALK uses commands that mimic natural language. It supports:
 
 - Output and interaction (`say`, `input`)
 - Variables and arithmetic (`set`, `add`, `sub`, etc.)
@@ -206,14 +206,14 @@ You can add new commands by editing the `interpret_line()` function in `talk.py`
 
 ## 📎 To-Do Ideas
 
-- [ ] Full `if/elif/else` conditionals
-- [ ] Functions and reusable blocks
-- [ ] File I/O operations
-- [ ] Basic graphics or sound support
-- [ ] Online playground
+- [ ] Better interpreter
+- [ ] More commands
+- [ ] Syntax highlighting
+- [ ] VSCode Extension
+- [ ] Libraries! 
 
 ---
 
 ## 📣 Contributing
 
-Feel free to fork and expand. Plain Speech is a sandbox for exploring how to make coding accessible and human-readable.
+Feel free to fork and expand. TALK is a sandbox for exploring how to make coding accessible and human-readable.
