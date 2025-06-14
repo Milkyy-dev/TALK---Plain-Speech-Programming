@@ -211,7 +211,7 @@ You can add new commands by editing the `interpret_line()` function in `talk.py`
 - [ ] Syntax highlighting
 - [ ] VSCode Extension
 - [ ] Libraries! 
-
+- [ ] Graphics Rendering :D
 ---
 
 ## 📣 Contributing
