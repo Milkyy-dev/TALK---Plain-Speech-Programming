@@ -192,6 +192,40 @@ say "Fruits: " + fruits
 say "Total fruits: " + total
 ```
 
+## 💻 More Commands! Ascii Rendering and a WIP GRE (Graphics Runtime Engine)
+
+## GRE Example
+```
+clear 0x000000
+rect 100 100 200 150 0xFF0000
+pixel 150 150 0x00FF00
+pixel 160 160 0x0000FF
+```
+## Ascii Example
+```
+# Clear the screen (all pixels intensity 0)
+
+clear
+
+# Draw a diagonal line with intensity 9 (brightest)
+
+set_pixel 0 0 9
+set_pixel 1 1 8
+set_pixel 2 2 7
+set_pixel 3 3 6
+set_pixel 4 4 5
+set_pixel 5 5 4
+set_pixel 6 6 3
+set_pixel 7 7 2
+set_pixel 8 8 1
+set_pixel 9 9 0
+
+# Render the current pixel buffer to the console
+
+render
+```
+
+
 ---
 
 ## 🛠️ Developer Notes
@@ -207,13 +241,18 @@ You can add new commands by editing the `interpret_line()` function in `talk.py`
 ## 📎 To-Do Ideas
 
 - [ ] Better interpreter
-- [ ] More commands
+- [ ] More commands (Still working on)
 - [ ] Syntax highlighting
 - [ ] VSCode Extension
 - [ ] Libraries! 
-- [ ] Graphics Rendering :D
+- [ ] Graphics Rendering :D (Kinda done)
 ---
 
 ## 📣 Contributing
 
 Feel free to fork and expand. TALK is a sandbox for exploring how to make coding accessible and human-readable.
+
+#  ==================== TALK Multi-Purpose ====================
+#  ==================== Milky-Dev / Milky ===================
+#  ==================== UPDATED: 6/20/2025 ==================
+#  ============ Free For Personal / Commerical Use ==========
