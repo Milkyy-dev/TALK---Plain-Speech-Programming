@@ -252,7 +252,7 @@ You can add new commands by editing the `interpret_line()` function in `talk.py`
 
 Feel free to fork and expand. TALK is a sandbox for exploring how to make coding accessible and human-readable.
 
-#  ==================== TALK Multi-Purpose ====================
-#  ==================== Milky-Dev / Milky ===================
-#  ==================== UPDATED: 6/20/2025 ==================
-#  ============ Free For Personal / Commerical Use ==========
+#  = TALK Multi-Purpose 
+#  = Milky-Dev / Milky
+#  = UPDATED: 6/20/2025 
+#  = Free For Personal / Commerical Use
